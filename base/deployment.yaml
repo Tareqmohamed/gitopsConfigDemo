@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: sum-service
-        image: regoo707/sum-service
+        image: tareqmohamed/gitopsdemo
         livenessProbe:
           httpGet:
             path: /health

@@ -3,5 +3,5 @@ kind: Kustomization
 bases:
 - ../../base
 images:
-- name: regoo707/sum-service
+- name: tareqmohamed/gitopsdemo
   newTag: ca23d149
